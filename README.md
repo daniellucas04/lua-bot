@@ -2,8 +2,6 @@
   
 <h1 align="center">LUA</h1>
 
-> ⚠️ Ainda em desenvolvimento... (Pode apresentar bugs) ⚠️
-
 Lua é um bot de administração para servidores Discord, onde busca ter apenas os comandos necessários para que os administradores ajam de maneira rápida e eficiente. A Lua utiliza Slash Commands, então não se preoucupe em decorar um prefixo diferente além da barra ( / ).
 
 
